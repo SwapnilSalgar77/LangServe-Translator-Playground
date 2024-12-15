@@ -1,0 +1,14 @@
+
+langchain-openai==0.1.17
+langchain-groq==0.1.6
+langchain==0.2.10
+pandas
+python-dotenv==1.0.1
+langchain-community==0.2.10
+bs4==0.0.2
+faiss-cpu
+langchain-chroma==0.1.2
+langserve==0.2.2
+fastapi
+uvicorn
+unstructured==0.15.0
